@@ -39,6 +39,7 @@ void divide(int firstNumber, int secondNumber) {
     return;
 }
 
+// Main running program starts here
 int main() {
     int firstNumber;
     int secondNumber;
